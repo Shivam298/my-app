@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695882008 source:c:\users\shku275347\documents\c\training\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stddef.h>
+	<stdnoreturn.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+
